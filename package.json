@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "openzeppelin-solidity": "2.3",
+    "truffle": "^5.4.22",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "name": "cryptostarudacity",
+  "description": "**PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitendraselvam/CryptoStarUdacity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitendraselvam/CryptoStarUdacity/issues"
+  },
+  "homepage": "https://github.com/jitendraselvam/CryptoStarUdacity#readme"
+}

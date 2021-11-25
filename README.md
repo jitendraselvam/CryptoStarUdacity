@@ -136,3 +136,11 @@ compilers: {
 ---
 
 Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
+
+
+# Additional projectInfo
+
+### ERC-721 Token Name: JToken
+### ERC-721 Token Symbol: JT
+### Version of the Truffle and OpenZeppelin used: Truffle v5.4.22 (core: 5.4.22), OpenZeppelin 2.3
+### Token Address on the Rinkeby Network: 0x7c06fC6821f1598d025eB91f2d3687C8f2760427
